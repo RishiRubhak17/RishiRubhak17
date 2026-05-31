@@ -13,9 +13,9 @@
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FF41&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-YOUR__USERNAME-00FF41?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Rishirubhak17?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41)](https://github.com/Rishirubhak17)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rishirubhak17&style=for-the-badge&color=00FF41&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/Rishirubhak17)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-syntaxsamurai13-00FF41?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/syntaxsamurai13)
 
 </div>
 
@@ -176,7 +176,7 @@ tech_stack:
 ![Security Automation](https://img.shields.io/badge/Security_Automation-0D1117?style=flat-square&logo=ansible&logoColor=EE0000)
 ![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-0D1117?style=flat-square&logo=virustotal&logoColor=394EFF)
 
-[![View Project](https://img.shields.io/badge/View_Repository-00FF41?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/YOUR_USERNAME/CyberSentinel)
+[![View Project](https://img.shields.io/badge/View_Repository-00FF41?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Rishirubhak17/CyberSentinel)
 
 </div>
 
@@ -251,7 +251,7 @@ tech_stack:
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/syntaxsamurai13.png)](https://tryhackme.com/p/syntaxsamurai13)
 
 </div>
 
@@ -259,26 +259,26 @@ tech_stack:
 
 <div align="center">
 
-## `> ./stats --github YOUR_USERNAME`
+## `> ./stats --github Rishirubhak17`
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=FF4444&currStreakLabel=00FF41&sideLabels=00FF41&dates=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rishirubhak17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishirubhak17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=FF4444&currStreakLabel=00FF41&sideLabels=00FF41&dates=C9D1D9" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishirubhak17&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" width="40%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&area_color=003300" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishirubhak17&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&area_color=003300" width="95%" />
 
 </div>
 
@@ -310,11 +310,11 @@ tech_stack:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://YOUR_PORTFOLIO_URL)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=212C42)](https://tryhackme.com/p/YOUR_THM_USERNAME)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:YOUR_EMAIL@domain.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Rishirubhak17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rishirubhak17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://rishirubhak17.netlify.app)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=212C42)](https://tryhackme.com/p/syntaxsamurai13)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:rishirubhak1212ar@gmail.com)
 
 </div>
 
@@ -342,7 +342,7 @@ Response time: < 24 hours
 
 *"The quieter you become, the more you are able to hear."* — Kali Linux
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=0D1117&right_color=00FF41&left_text=Visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rishirubhak17.Rishirubhak17&left_color=0D1117&right_color=00FF41&left_text=Visitors)
 
 **⭐ If you find my work useful, consider starring my repositories!**
 

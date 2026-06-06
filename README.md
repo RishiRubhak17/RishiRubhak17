@@ -1,28 +1,21 @@
 <div align="center">
 
-<!-- LOGO -->
-<img src="https://raw.githubusercontent.com/AxiomSecureCraft/.github/main/assets/asc-logo.png" width="130" alt="ASC Logo" />
-
-<br/>
-
-# AXIOM SECURECRAFT
-
-### `Building Secure Digital Futures`
-
-[![Website](https://img.shields.io/badge/www.axiom--securecraft.com-000000?style=for-the-badge&logo=globe&logoColor=white)](https://www.axiom-securecraft.com)
-[![Email](https://img.shields.io/badge/contact@axiom--securecraft.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@axiom-securecraft.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/axiom-securecraft)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AxiomSecureCraft)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AxiomSecureCraft)
-
-<br/>
-
 ```
-  ██████╗   security-first  ██████╗  innovation-driven  ██████╗
-  ██╔══██╗  ─────────────►  ██╔═══╝  ────────────────►  ██████╗
-  ██║  ██║  build & protect ██║      ai + automation     ╚═════╝
-  ╚═════╝                   ╚═╝                          ASC 2025
+██████╗ ██╗███████╗██╗  ██╗██╗    ██████╗ ██╗   ██╗██████╗ ██╗  ██╗ █████╗ ██╗  ██╗
+██╔══██╗██║██╔════╝██║  ██║██║    ██╔══██╗██║   ██║██╔══██╗██║  ██║██╔══██╗██║ ██╔╝
+██████╔╝██║███████╗███████║██║    ██████╔╝██║   ██║██████╔╝███████║███████║█████╔╝ 
+██╔══██╗██║╚════██║██╔══██║██║    ██╔══██╗██║   ██║██╔══██╗██╔══██║██╔══██║██╔═██╗ 
+██║  ██║██║███████║██║  ██║██║    ██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║  ██╗
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Rishi+Rubhak+R;Cybersecurity+Enthusiast+%7C+Ethical+Hacker;Defensive+Security+Practitioner;Penetration+Tester+in+Training;CTF+Player+%7C+Security+Researcher;%22Security+is+not+a+product%2C+it%27s+a+process.%22)](https://git.io/typing-svg)
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/Rishirubhak17?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41)](https://github.com/Rishirubhak17)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rishirubhak17&style=for-the-badge&color=00FF41&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/Rishirubhak17)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-syntaxsamurai13-00FF41?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/syntaxsamurai13)
 
 </div>
 
@@ -30,145 +23,160 @@
 
 <div align="center">
 
-### 🔐 Who We Are
+## `> ./whoami`
 
 </div>
 
-> **Axiom SecureCraft (ASC)** is a forward-thinking technology company operating at the intersection of **cybersecurity**, **web & software development**, **AI automation**, and **professional training**. We partner with startups, colleges, and enterprises to build systems that are robust, secure, and future-ready.
->
-> *We don't just ship solutions. We build long-term digital partnerships.*
+```bash
+┌──(rishi㉿kali)-[~]
+└─$ cat about_me.txt
 
----
-
-<div align="center">
-
-## 🗂️ Service Catalog `2025–26`
-
-*6 divisions · 3 programs · Startups · Colleges · Enterprise*
-
-</div>
-
-<br/>
-
-### 🛡️ `01` — Cybersecurity Services
-> *Protecting Your Digital Infrastructure*
-
-| Service Area | What We Deliver |
-|---|---|
-| **Security Consulting** | Cybersecurity consultation, best practices implementation, awareness training |
-| **Security Assessments** | Vulnerability Assessment (VA), web app security testing, security audits, secure code review |
-| **CTF & Community** | CTF development & hosting, college cybersecurity events, Capture The Flag competitions |
-
-**Deliverables:** Security Assessment Reports · Risk Analysis Reports · Remediation Plans · Training Materials · Certificates
-
-**Target Clients:** `Colleges` `Schools` `SMBs` `Startups`
-
----
-
-### 🌐 `02` — Web Development Services
-> *Beautiful. Functional. Secure.*
-
-| Service Area | What We Deliver |
-|---|---|
-| **Website Development** | Business sites, portfolio sites, college club pages, event sites, landing pages |
-| **Web Applications** | Custom web apps, admin dashboards, internal management portals |
-| **Support & Maintenance** | Website upkeep, performance optimization, security updates |
-
-**Deliverables:** Fully Functional Website · Admin Panel · Source Code · Documentation · Deployment Support
-
-**Target Clients:** `Startups` `Colleges` `Businesses` `Events`
-
----
-
-### 💻 `03` — Software Development
-> *Custom Software for Every Business Need*
-
-| Service Area | What We Deliver |
-|---|---|
-| **Educational Solutions** | Student ERP systems, attendance management, exam management systems |
-| **Business Solutions** | Inventory management, management portals, CRM solutions |
-| **Custom Development** | Desktop applications, custom software, MVP development |
-
-**Deliverables:** Complete Software Product · Source Code · User Documentation · Technical Support
-
-**Target Clients:** `Educational Institutions` `Startups` `SMBs` `Enterprises`
-
----
-
-### 🤖 `04` — AI & Automation Solutions
-> *Intelligent Systems for Tomorrow's Challenges*
-
-| Service Area | What We Deliver |
-|---|---|
-| **AI Solutions** | AI chatbots, AI agents, custom GPT solutions |
-| **Automation Services** | Business process automation, workflow automation, document automation |
-| **AI Integration** | AI-powered websites, AI assistants, AI-based internal tools |
-
-**Deliverables:** AI Solution Deployment · User Training · Documentation · Maintenance Support
-
-**Target Clients:** `Startups` `SMBs` `Enterprises` `Institutions`
-
----
-
-### 🎓 `05` — Training & Workshops
-> *Knowledge that Ships Real Skills*
-
-**One-time events, short-term workshops, long-term programs — tailored to college clubs, student communities, and professional teams.**
-
-**Target Clients:** `College Students` `CS Communities` `Corporate Teams`
-
----
-
-### 📚 `06` — Skill Development Program
-> *1 Month · 3 Tracks · Real Outcomes*
-
-<div align="center">
-
-| Track | Target | Core Focus |
-|---|---|---|
-| 🔐 **Cybersecurity Essentials** | Beginners → Security Engineers | Linux, networking, VAPT, CTF, ethical hacking |
-| 🛠️ **Full Stack + AI Development** | Beginners → Full Stack Devs | HTML/CSS/JS, React, Node.js, APIs, AI integration |
-| ⚡ **Vibe Coding & AI Builder** | Builders & Founders | Cursor AI, Windsurf, GitHub Copilot, no-code, SaaS MVP |
-
-</div>
-
-**Program Outcomes:**
-
+[*] Name        : Rishi Rubhak R
+[*] Role        : Cybersecurity Enthusiast | Ethical Hacking Learner
+[*] Status      : B.Sc. Computer Science — Year 1
+[*] Focus       : Offensive & Defensive Security | Penetration Testing
+[*] Passion     : CTF Challenges | Security Research | Network Defense
+[*] Goal        : Skilled Penetration Tester & Security Researcher
+[*] Community   : Actively contributing to the cybersecurity ecosystem
+[+] System      : Online | All flags captured
 ```
-✅  Industry Projects     →  Real-world portfolio-worthy builds
-✅  Certification         →  ASC-recognized completion certificate  
-✅  Internship            →  Opportunities with ASC post-completion
-✅  Career Guidance       →  1-on-1 mentorship & career support
-✅  Portfolio             →  Job-ready, fully documented
+
+> I am a First-Year B.Sc. Computer Science student passionate about **Cybersecurity**, **Ethical Hacking**, **Network Defense**, **Security Operations**, and **Penetration Testing**. I enjoy solving CTF challenges, building security-focused projects, learning through hands-on labs, and exploring both offensive and defensive techniques.
+
+---
+
+<div align="center">
+
+## `> ./current_focus.sh`
+
+</div>
+
+```python
+current_focus = {
+    "learning"   : ["Advanced Penetration Testing", "Web App Security", "OSCP Prep"],
+    "building"   : ["CyberSentinel — Wi-Fi Threat Detection Tool"],
+    "practicing" : ["CTF Challenges", "TryHackMe Learning Paths", "HTB Labs"],
+    "reading"    : ["The Web Application Hacker's Handbook", "Network Security Essentials"],
+    "goal_2025"  : "CEH / CompTIA Security+ Certification"
+}
+```
+
+<div align="center">
+
+| 🔴 Offensive Security | 🔵 Defensive Security | 🟢 Security Research |
+|:---:|:---:|:---:|
+| Ethical Hacking | Network Defense | CTF Challenges |
+| Penetration Testing | Log Analysis | Vulnerability Research |
+| Web Security | Threat Detection | Security Automation |
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ls -la /tech_stack/`
+
+</div>
+
+### 🛡️ Cybersecurity
+![Network Security](https://img.shields.io/badge/Network_Security-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF41)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-0D1117?style=for-the-badge&logo=metasploit&logoColor=FF4444)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-0D1117?style=for-the-badge&logo=qualys&logoColor=FFD700)
+![Web Security](https://img.shields.io/badge/Web_Security-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF41)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-0D1117?style=for-the-badge&logo=splunk&logoColor=00BFFF)
+![Defensive Security](https://img.shields.io/badge/Defensive_Security-0D1117?style=for-the-badge&logo=shield&logoColor=00FF41)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+### 🌐 Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![OSI Model](https://img.shields.io/badge/OSI_Model-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF41)
+![DNS](https://img.shields.io/badge/DNS-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![Firewall](https://img.shields.io/badge/Firewall_Concepts-0D1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
+
+---
+
+<div align="center">
+
+## `> cat /arsenal/tools.conf`
+
+</div>
+
+<div align="center">
+
+| Tool | Category | Proficiency |
+|:---|:---|:---|
+| 🦈 **Wireshark** | Network Analysis | `████████░░` Intermediate |
+| 🔍 **Nmap** | Network Scanning | `████████░░` Intermediate |
+| 🐧 **Linux CLI** | OS / Scripting | `████████░░` Intermediate |
+| 🐙 **Git** | Version Control | `███████░░░` Intermediate |
+| 💻 **VirtualBox** | Lab Environment | `████████░░` Intermediate |
+| 🎯 **TryHackMe** | CTF / Learning | `█████████░` Advanced |
+
+</div>
+
+```bash
+┌──(rishi㉿kali)-[~/arsenal]
+└─$ nmap -sV --script=default target_network
+Starting Nmap scan... [Skills loaded. Vulnerabilities: 0. Curiosity: MAX]
 ```
 
 ---
 
 <div align="center">
 
-## ⚡ Why ASC?
+## `> ./projects/CyberSentinel --info`
 
 </div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║           🛡️  C Y B E R S E N T I N E L  🛡️                  ║
+║      Wi-Fi Threat Detection & Mobile Security Scanner        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> A cybersecurity-focused application engineered to detect unsafe Wi-Fi networks, identify fake access points, and protect users from real-time online threats.
 
 ```yaml
-security_first:     "Built secure from day one — not patched later"
-innovation_driven:  "Latest AI, automation, and modern frameworks"
-expert_team:        "Deep industry expertise + real-world experience"
-proven_deliverables:"Clear outputs, timelines, quality-assured"
-education_focused:  "Affordable, high-quality programs for colleges & students"
-growth_partnership: "Not just a vendor — your long-term digital partner"
-```
+project: CyberSentinel
+version: "1.0"
+status: Active Development
 
----
+features:
+  - ✅ Wi-Fi Threat Detection
+  - ✅ Fake Access Point Identification
+  - ✅ Threat Analysis Engine
+  - ✅ Real-Time Security Alerts
+  - ✅ Network Risk Classification
+  - ✅ Security Recommendations Engine
+  - ✅ Mobile Security Integration
+  - ✅ VPN Support Integration
+
+tech_stack:
+  language    : Python
+  domain      : Networking + Security Automation
+  methodology : Threat Analysis | Passive Scanning | Risk Scoring
+```
 
 <div align="center">
 
-## 📊 At a Glance
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![Networking](https://img.shields.io/badge/Networking-0D1117?style=flat-square&logo=cisco&logoColor=00FF41)
+![Security Automation](https://img.shields.io/badge/Security_Automation-0D1117?style=flat-square&logo=ansible&logoColor=EE0000)
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-0D1117?style=flat-square&logo=virustotal&logoColor=394EFF)
 
-![Divisions](https://img.shields.io/badge/Service_Divisions-6-FF0000?style=flat-square&labelColor=000000)
-![Tracks](https://img.shields.io/badge/Training_Tracks-3-FF0000?style=flat-square&labelColor=000000)
-![Clients](https://img.shields.io/badge/Clients-Startups_·_Colleges_·_Enterprise-FF0000?style=flat-square&labelColor=000000)
-![Stack](https://img.shields.io/badge/Stack-Cybersecurity_·_Web_·_AI-FF0000?style=flat-square&labelColor=000000)
+[![View Project](https://img.shields.io/badge/View_Repository-00FF41?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Rishirubhak17/CyberSentinel)
 
 </div>
 
@@ -176,21 +184,166 @@ growth_partnership: "Not just a vendor — your long-term digital partner"
 
 <div align="center">
 
-## 🤝 Let's Build Something Secure Together
+## `> cat /achievements/flags.log`
 
-**Got a project? Want to join a program? Need a partner?**
+</div>
 
-[![Email Us](https://img.shields.io/badge/Email_Us-contact@axiom--securecraft.com-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact@axiom-securecraft.com)
-[![Visit Website](https://img.shields.io/badge/Visit_Website-axiom--securecraft.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.axiom-securecraft.com)
+```
+[+] Achievement Unlocked: 2nd Prize — College Hackathon             ██████████ 100%
+[+] Achievement Unlocked: Finalist — HeberHack (National Level)     ██████████ 100%
+[+] Achievement Unlocked: Finalist — StartupTN Tourism Hackathon    ██████████ 100%
+[+] Achievement Unlocked: Finalist — Velan AI Agri Hackathon        ██████████ 100%
+```
 
-<br/>
+<div align="center">
 
-*`© 2025 Axiom SecureCraft · All Rights Reserved · CONFIDENTIAL`*
+| 🏆 Award | 📍 Event | 🎯 Level |
+|:---|:---|:---:|
+| **2nd Prize** | College Hackathon | Institutional |
+| **Finalist** | HeberHack Hackathon | 🌐 National |
+| **Finalist** | StartupTN Tourism Hackathon | 🌐 National |
+| **Finalist** | Velan AI Agri Hackathon | 🌐 National |
 
-<br/>
+</div>
 
 ---
 
-*Made with `</>` and 🔐 by the ASC Team*
+<div align="center">
+
+## `> ls ~/certifications/`
+
+</div>
+
+<div align="center">
+
+| 📜 Certification | 🏛️ Issuer | 🔗 |
+|:---|:---:|:---:|
+| Networking Fundamentals | TryHackMe | [![View](https://img.shields.io/badge/View-00FF41?style=flat-square)](https://tryhackme.com) |
+| Careers in Cyber | TryHackMe | [![View](https://img.shields.io/badge/View-00FF41?style=flat-square)](https://tryhackme.com) |
+| Intro to Defensive Security | TryHackMe | [![View](https://img.shields.io/badge/View-00FF41?style=flat-square)](https://tryhackme.com) |
+| Intro to Offensive Security | TryHackMe | [![View](https://img.shields.io/badge/View-00FF41?style=flat-square)](https://tryhackme.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ./ctf_journey --status`
+
+</div>
+
+```bash
+[*] Platform     : TryHackMe
+[*] Mode         : Learning + Hacking
+[*] Paths        : Pre-Security | Jr Penetration Tester | SOC Level 1
+[*] Status       : Active — Rooms in Progress...
+
+[*] Interests    :
+    ├── Web Application Hacking
+    ├── Network Exploitation
+    ├── Privilege Escalation
+    ├── OSINT
+    └── Forensics & Log Analysis
+
+[+] Next Target  : HackTheBox | Offensive Security Labs
+```
+
+<div align="center">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/syntaxsamurai13.png)](https://tryhackme.com/p/syntaxsamurai13)
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ./stats --github Rishirubhak17`
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rishirubhak17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishirubhak17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=FF4444&currStreakLabel=00FF41&sideLabels=00FF41&dates=C9D1D9" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishirubhak17&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" width="40%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishirubhak17&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&area_color=003300" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `> cat /experience/freelance.log`
+
+</div>
+
+```
+[*] Worked with local businesses and startups to deliver:
+    ├── [✓] Website development & deployment
+    ├── [✓] Secure web solutions architecture  
+    ├── [✓] Online presence optimization
+    └── [✓] Scam awareness & digital safety consulting
+
+[+] Impact: Helped businesses stay secure in the digital landscape.
+```
+
+---
+
+<div align="center">
+
+## `> ./contact --secure`
+
+</div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Rishirubhak17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/rishirubhak17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://rishirubhak17.netlify.app)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=212C42)](https://tryhackme.com/p/syntaxsamurai13)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:rishirubhak1212ar@gmail.com)
+
+</div>
+
+```
+┌──(rishi㉿kali)-[~]
+└─$ echo "Open to: Internships | Collaborations | CTF Teams | Security Research"
+Open to: Internships | Collaborations | CTF Teams | Security Research
+
+└─$ echo "Response time: < 24 hours"
+Response time: < 24 hours
+```
+
+---
+
+<div align="center">
+
+```
+██████╗  ██████╗ ███╗   ██╗███████╗
+██╔══██╗██╔═══██╗████╗  ██║██╔════╝
+██║  ██║██║   ██║██╔██╗ ██║█████╗  
+██║  ██║██║   ██║██║╚██╗██║██╔══╝  
+██████╔╝╚██████╔╝██║ ╚████║███████╗
+╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+```
+
+*"The quieter you become, the more you are able to hear."* — Kali Linux
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rishirubhak17.Rishirubhak17&left_color=0D1117&right_color=00FF41&left_text=Visitors)
+
+**⭐ If you find my work useful, consider starring my repositories!**
 
 </div>
